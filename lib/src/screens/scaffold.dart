@@ -29,7 +29,7 @@ class GestScaffold extends StatelessWidget {
         destinations: const [
           AdaptiveScaffoldDestination(
             title: 'Notables',
-            icon: Icons.quora_outlined,
+            icon: Icons.speaker_notes,
           ),
           AdaptiveScaffoldDestination(
             title: 'Settings',

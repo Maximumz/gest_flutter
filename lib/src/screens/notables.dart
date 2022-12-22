@@ -65,7 +65,7 @@ class _NotablessScreenState extends State<NotablessScreen>
             tabs: const [
               Tab(
                 text: 'Be Inspired',
-                icon: Icon(Icons.quora_outlined),
+                icon: Icon(Icons.speaker_notes),
               ),
               Tab(
                 text: 'Create',
